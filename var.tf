@@ -1,4 +1,6 @@
-variable username {}
+variable username {
+   default=harshad
+}
 
 
 output printname1 {
